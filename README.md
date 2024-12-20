@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lasha Bidzinashvili</h1>
 <h3 align="center">A passionate full-stack software engineer from Georgia 🇬🇪</h3>
 
-- 🔭 I am currently developing **the backend for an electronics store.**
+- 🔭 I am currently developing **the backend for an electronics store**
 
 - 🌱 I’m currently learning **GraphQL**
 
