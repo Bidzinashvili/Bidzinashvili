@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the backend for an electronics store<br>🌱 I’m currently learning GraphQL<br>💬 Ask me about Next.js/Express.js<br>⚡ Fun fact: I'm studying banking and finance
+🔭 I’m currently working on the backend for an electronics store<br>🌱 I’m currently learning GraphQL<br>💬 Ask me about Next.js/Express.js<br>⚡ Fun fact: I'm currenty studying Banking and Finance in Georgian Technical University
 
 
 ## 🌐 Socials:
