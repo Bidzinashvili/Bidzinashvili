@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **Nest.js / Express.js**
+- 💬 Ask me about **Next.js / Express.js**
 
 - 📫 How to reach me **lashabidzinashvili07@gmail.com**
 
